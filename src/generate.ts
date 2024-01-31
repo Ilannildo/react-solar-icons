@@ -115,10 +115,6 @@ const createIndex = ({
         await transform(svg.data, {
           typescript: true,
           icon: true,
-          svgProps: {
-            width: "auto",
-            height: "auto",
-          },
           replaceAttrValues: {
             "#1C274C": "currentColor",
           },
