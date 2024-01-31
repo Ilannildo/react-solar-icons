@@ -1,7 +1,7 @@
 {
-  "name": "solar-icon-set",
+  "name": "react-solar-icons",
   "version": "1.0.0",
-  "description": "Solar Icon Set in react",
+  "description": "Solar Icon Set in React",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "scripts": {
@@ -169,7 +169,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/480-Design/Solar-Icon-Set.git"
+    "url": "git+https://github.com/ilannildo/react-solar-icons.git"
   },
   "keywords": [
     "Solar",
@@ -178,12 +178,12 @@
     "react",
     "pack"
   ],
-  "author": "chebarash (https://github.com/chebarash)",
+  "author": "Ilannildo (https://github.com/ilannildo)",
   "license": "GPL-3.0",
   "bugs": {
-    "url": "https://github.com/480-Design/Solar-Icon-Set/issues"
+    "url": "https://github.com/Ilannildo/react-solar-icons/issues"
   },
-  "homepage": "https://github.com/480-Design/Solar-Icon-Set#readme",
+  "homepage": "https://github.com/Ilannildo/react-solar-icons#readme",
   "dependencies": {
     "@svgr/core": "^6.5.1",
     "@svgr/plugin-jsx": "^6.5.1",

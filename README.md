@@ -2,7 +2,7 @@
 
 [Solar Icon Set](https://solariconset.com/) - free giant pack of icons. Drawn from scratch. Six styles, perfect balance, we`ve got everything You could ever need in React.
 
-![Solar Icon Set](https://s3-alpha.figma.com/hub/file/2568155445/aead3340-5dea-45ec-ae28-97aeed77aade-cover.png)
+![Solar Icon Set](https://s3-alpha.figma.com/hub/file/3905799190/6b942cc3-3041-472f-83de-d8ad116d2a0e-cover.png)
 
 ## Install
 
@@ -13,7 +13,7 @@ npm install solar-icon-set
 ## Usage
 
 ```jsx
-import * as SolarIconSet from "solar-icon-set";
+import * as SolarIconSet from "react-solar-icons";
 
 function App() {
   return <SolarIconSet.Document color="#1C274C" size={24} iconStyle="Bold" />;
@@ -23,7 +23,7 @@ function App() {
 or
 
 ```jsx
-import { Document } from "solar-icon-set/school";
+import { Document } from "react-solar-icons/school";
 
 function App() {
   return <Document color="#1C274C" size={24} iconStyle="Bold" />;
