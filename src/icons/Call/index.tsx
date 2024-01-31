@@ -19,3 +19,6 @@ export { default as PhoneRounded } from "./PhoneRounded";
 export { default as RecordCall } from "./RecordCall";
 export { default as RecordCallCircle } from "./RecordCallCircle";
 export { default as RecordCallSquare } from "./RecordCallSquare";
+export { default as RecordCircleInbox } from "./RecordCircle";
+export { default as RecordMinimalistic } from "./RecordMinimalistic";
+export { default as RecordSquare } from "./RecordSquare";

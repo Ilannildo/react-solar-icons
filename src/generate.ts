@@ -116,8 +116,8 @@ const createIndex = ({
           typescript: true,
           icon: true,
           svgProps: {
-            width: "inherit",
-            height: "inherit",
+            width: "auto",
+            height: "auto",
           },
           replaceAttrValues: {
             "#1C274C": "currentColor",

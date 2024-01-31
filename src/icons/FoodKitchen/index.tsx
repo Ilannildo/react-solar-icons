@@ -3,6 +3,7 @@ export { default as ChefHat } from "./ChefHat";
 export { default as ChefHatHeart } from "./ChefHatHeart";
 export { default as ChefHatMinimalistic } from "./ChefHatMinimalistic";
 export { default as Corkscrew } from "./Corkscrew";
+export { default as SimpleCup } from "./Cup";
 export { default as CupHot } from "./CupHot";
 export { default as CupMinimalistic } from "./CupMinimalistic";
 export { default as CupPaper } from "./CupPaper";

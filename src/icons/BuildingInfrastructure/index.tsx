@@ -3,5 +3,6 @@ export { default as Buildings2 } from "./Buildings2";
 export { default as Buildings3 } from "./Buildings3";
 export { default as City } from "./City";
 export { default as Garage } from "./Garage";
+export { default as Buildings4 } from "./Home";
 export { default as Hospital } from "./Hospital";
 export { default as House } from "./House";

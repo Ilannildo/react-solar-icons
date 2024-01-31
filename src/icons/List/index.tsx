@@ -1,3 +1,4 @@
+export { default as ListBill } from "./Bill";
 export { default as Checklist } from "./Checklist";
 export { default as ChecklistMinimalistic } from "./ChecklistMinimalistic";
 export { default as List } from "./List";

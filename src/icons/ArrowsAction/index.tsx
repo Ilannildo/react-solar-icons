@@ -12,7 +12,7 @@ export { default as DownloadSquare } from "./DownloadSquare";
 export { default as DownloadTwiceSquare } from "./DownloadTwiceSquare";
 export { default as Exit } from "./Exit";
 export { default as Export } from "./Export";
-export { default as Forward } from "./Forward";
+export { default as ForwardArrow } from "./Forward";
 export { default as Forward2 } from "./Forward2";
 export { default as Import } from "./Import";
 export { default as Login } from "./Login";
@@ -34,6 +34,7 @@ export { default as MinimizeSquareMinimalistic } from "./MinimizeSquareMinimalis
 export { default as Rearrange } from "./Rearrange";
 export { default as ReciveSquare } from "./ReciveSquare";
 export { default as ReciveTwiceSquare } from "./ReciveTwiceSquare";
+export { default as ReorderDots } from "./Reorder";
 export { default as Reply } from "./Reply";
 export { default as Reply2 } from "./Reply2";
 export { default as Scale } from "./Scale";

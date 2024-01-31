@@ -24,6 +24,7 @@ export { default as StarFallMinimalistic2 } from "./StarFallMinimalistic2";
 export { default as StarRainbow } from "./StarRainbow";
 export { default as StarRing } from "./StarRing";
 export { default as StarRings } from "./StarRings";
+export { default as Stars } from "./Stars";
 export { default as StarsLine } from "./StarsLine";
 export { default as StarsMinimalistic } from "./StarsMinimalistic";
 export { default as UFO } from "./UFO";
