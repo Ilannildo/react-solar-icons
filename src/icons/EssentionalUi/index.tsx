@@ -91,6 +91,7 @@ export { default as Masks } from "./Masks";
 export { default as MentionCircle } from "./MentionCircle";
 export { default as MentionSquare } from "./MentionSquare";
 export { default as MenuDots } from "./MenuDots";
+export { default as MenuDotsVertical } from "./MenuDotsVertical";
 export { default as MenuDotsCircle } from "./MenuDotsCircle";
 export { default as MenuDotsSquare } from "./MenuDotsSquare";
 export { default as MinusCircle } from "./MinusCircle";
