@@ -139,3 +139,5 @@ export { default as Umbrella } from "./Umbrella";
 export { default as Waterdrop } from "./Waterdrop";
 export { default as WinRar } from "./WinRar";
 export { default as XXX } from "./XXX";
+export { default as PowerLighting } from "./PowerLighting";
+export { default as SolarPower } from "./SolarPower";
